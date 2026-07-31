@@ -1,5 +1,16 @@
 # Hi, I'm AAKASH P 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashp2008&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/aakashp2008">
+    <img src="https://img.shields.io/github/followers/aakashp2008?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/stars/aakashp2008?affiliations=OWNER&style=for-the-badge" />
+</p>
+
 🎓 B.Tech Information Technology Student  
 💻 Aspiring Software Engineer  
 🚀 Passionate about Python, Java, Data Structures, and Software Development
