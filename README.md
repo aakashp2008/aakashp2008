@@ -1,16 +1,32 @@
 # 👋 Hi, I'm Aakash P
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;Python+%7C+Java+%7C+C+%7C+SQL;Data+Structures+%7C+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;Python+%7C+Java+%7C+C+%7C+SQL;Data+Structures+%7C+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashp2008&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
 
+<p align="center">
+  <a href="https://github.com/aakashp2008">
+    <img src="https://img.shields.io/badge/GitHub-aakashp2008-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/aakash-pk-612907391/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aakash%20P-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:aakash2008888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-aakash2008888%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
+
+<p align="center">
+  <img src="assets/coding.gif" width="700" alt="Coding Animation">
+</p>
 
 🎓 **B.Tech Information Technology Student**
 
@@ -26,27 +42,53 @@
 
 ---
 
-## 💻 Tech Stack
+# 🤝 Connect With Me
 
-### 👨‍💻 Programming Languages
+<p align="center">
+
+<a href="https://github.com/aakashp2008">
+<img src="https://img.shields.io/badge/GitHub-aakashp2008-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/aakash-pk-612907391/">
+<img src="https://img.shields.io/badge/LinkedIn-Aakash%20P-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:aakash2008888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-aakash2008888%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+### 🔗 My Profiles
+
+* 💼 **LinkedIn:** [Aakash P](https://www.linkedin.com/in/aakash-pk-612907391/)
+* 🐙 **GitHub:** [@aakashp2008](https://github.com/aakashp2008)
+* 📧 **Email:** [aakash2008888@gmail.com](mailto:aakash2008888@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### 🌐 Development
+## 🌐 Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
 </p>
 
-### 🗄️ Database & Backend
+## 🗄️ Database & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
@@ -57,14 +99,14 @@
 # 🧠 Coding Journey
 
 <p align="center">
-  <img src="assets/coding.gif" width="700" alt="Coding Animation">
+  <img src="assets/coding.gif" width="700" alt="Coding Journey">
 </p>
 
-I regularly practice programming and problem solving across multiple platforms.
+I regularly practice programming and problem solving across multiple competitive programming platforms.
 
 ---
 
-## 🟡 LeetCode
+# 🟡 LeetCode
 
 <p align="center">
   <img src="assets/leetcode.gif" width="700" alt="LeetCode Coding Animation">
@@ -72,9 +114,9 @@ I regularly practice programming and problem solving across multiple platforms.
 
 🔥 **300+ Problems Solved**
 
-My LeetCode practice focuses on building strong DSA fundamentals.
+I use LeetCode to strengthen my **Data Structures & Algorithms** and problem-solving skills.
 
-### 📚 Topics I Practice
+## 📚 Topics I Practice
 
 ```text
 Arrays
@@ -93,7 +135,7 @@ Greedy
 Dynamic Programming
 ```
 
-### 🎯 Current Goal
+## 🎯 LeetCode Goal
 
 ```text
 300+ Problems
@@ -107,15 +149,15 @@ Dynamic Programming
 
 ---
 
-## 🔵 Codeforces
+# 🔵 Codeforces
 
 <p align="center">
   <img src="assets/codeforces.gif" width="700" alt="Competitive Programming Animation">
 </p>
 
-Currently improving my competitive programming skills through regular Codeforces practice.
+I am continuously improving my competitive programming skills through Codeforces practice.
 
-### 🔥 Current Focus
+## 🔥 Current Focus
 
 ```text
 Implementation
@@ -129,7 +171,7 @@ Two Pointers
 Problem Solving
 ```
 
-### 🎯 Goal
+## 🎯 Rating Goal
 
 ```text
 Current Rating
@@ -145,15 +187,15 @@ Current Rating
 
 ---
 
-## 🟢 HackerRank
+# 🟢 HackerRank
 
 <p align="center">
-  <img src="assets/hackerrank.gif" width="700" alt="HackerRank Coding Animation">
+  <img src="assets/hackerrank.gif" width="700" alt="HackerRank Animation">
 </p>
 
-I use HackerRank to strengthen my programming fundamentals and SQL skills.
+I use HackerRank to strengthen my programming fundamentals, problem-solving ability, and SQL skills.
 
-### 📊 Practice Areas
+## 📊 Practice Areas
 
 ```text
 Python
@@ -164,7 +206,7 @@ Algorithms
 Programming Fundamentals
 ```
 
-### 📈 Progress
+## 📈 My Progress
 
 ```text
 Practice
@@ -186,22 +228,18 @@ Higher Rank 🚀
   <img src="assets/certifications.gif" width="700" alt="Certifications Animation">
 </p>
 
-I continuously improve my technical knowledge through online courses, certifications, and hands-on learning.
+I continuously improve my technical knowledge through certifications, online courses, and hands-on projects.
 
-### 📜 Certifications & Credentials
+## 📜 Certifications & Credentials
 
 * 🐍 **Programming Fundamentals using Python – Infosys Springboard**
 * 📚 **Problem Solving through C – NPTEL**
 * 🤖 **Oracle AI / OCI AI Learning Credentials**
-* 📊 **Google Ads Display Certification**
 * 🎓 **Oracle Certified Learner**
+* 📊 **Google Ads Display Certification**
 * 💻 Additional programming and technology learning credentials
 
-### 📚 Learning Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+## 📚 Learning Platforms
 
 ```text
 NPTEL
@@ -222,12 +260,12 @@ A student-focused platform designed to help students discover opportunities and 
 
 ### Features
 
-* Scholarships
-* Opportunities
-* Clubs
-* Career resources
-* Student success information
-* Personalized recommendations
+* 🎓 Scholarships
+* 💼 Opportunities
+* 🏫 Clubs
+* 📚 Career resources
+* 🌟 Student success information
+* 🤖 Personalized recommendations
 
 **Tech:** Flutter • Firebase • Dart
 
@@ -239,13 +277,13 @@ A Python-based backup integrity verification system using SHA-256 hashing.
 
 ### Features
 
-* SHA-256 file verification
-* Missing file detection
-* Modified file detection
-* Duplicate detection
-* JSON storage
-* CSV reporting
-* Backup integrity score
+* 🔐 SHA-256 file verification
+* ❌ Missing file detection
+* ⚠️ Modified file detection
+* 🔎 Duplicate detection
+* 💾 JSON storage
+* 📊 CSV reporting
+* 📈 Backup integrity score
 
 **Tech:** Python • SHA-256 • JSON • CSV
 
@@ -253,15 +291,15 @@ A Python-based backup integrity verification system using SHA-256 hashing.
 
 ## 📁 Student File Organizer
 
-A Python automation tool that organizes files into categorized folders.
+A Python automation tool that automatically organizes files into categorized folders.
 
 ### Features
 
-* Automatic file categorization
-* Duplicate protection
-* Folder creation
-* File-system automation
-* Error handling
+* 📂 Automatic file categorization
+* 🔄 Duplicate protection
+* 📁 Automatic folder creation
+* ⚙️ File-system automation
+* ⚠️ Error handling
 
 **Tech:** Python • Pathlib • Shutil
 
@@ -279,11 +317,23 @@ A machine-learning project for classifying news content using text-processing te
 
 A Python-based application for recording and managing personal expenses.
 
+### Features
+
+* Add expenses
+* Track spending
+* Categorize expenses
+* View expense information
+* Simple user interface
+
 **Tech:** Python • Tkinter
 
 ---
 
 # 📚 Currently Learning
+
+<p align="center">
+  <img src="assets/focus.gif" width="700" alt="Learning Animation">
+</p>
 
 ```text
 📌 Advanced Data Structures & Algorithms
@@ -305,35 +355,35 @@ A Python-based application for recording and managing personal expenses.
   <img src="assets/achievement.gif" width="700" alt="Achievement Animation">
 </p>
 
-* 🔥 **300+ LeetCode problems solved**
-* 💻 Regular Codeforces practice
-* 🟢 Active HackerRank practice
-* 🐍 Python programming certification
-* 📚 NPTEL learning experience
-* 🤖 Oracle AI learning credentials
+* 🔥 **300+ LeetCode Problems Solved**
+* 💻 Regular Codeforces Practice
+* 🟢 Active HackerRank Practice
+* 🐍 Python Programming Certification
+* 📚 NPTEL Learning Experience
+* 🤖 Oracle AI Learning Credentials
 * 📊 Google Ads Display Certification
-* 🚀 Multiple Python projects on GitHub
+* 🚀 Multiple Python Projects on GitHub
 
 ---
 
 # 📈 My Development Journey
 
 ```text
-        LEARN
-          ↓
-       PRACTICE
-          ↓
-    SOLVE PROBLEMS
-          ↓
-     BUILD PROJECTS
-          ↓
-   DOCUMENT ON GITHUB
-          ↓
-      GET FEEDBACK
-          ↓
-       IMPROVE
-          ↓
-        REPEAT 🔥
+              LEARN
+                ↓
+             PRACTICE
+                ↓
+         SOLVE PROBLEMS
+                ↓
+          BUILD PROJECTS
+                ↓
+       DOCUMENT ON GITHUB
+                ↓
+           GET FEEDBACK
+                ↓
+             IMPROVE
+                ↓
+            REPEAT 🔥
 ```
 
 ---
@@ -396,7 +446,7 @@ Automation
 # 📌 Current Focus
 
 <p align="center">
-  <img src="assets/focus.gif" width="700" alt="Learning and Coding Animation">
+  <img src="assets/profile.gif" width="700" alt="Current Focus Animation">
 </p>
 
 > **"Don't just learn technology. Build with it."**
@@ -412,32 +462,14 @@ Projects
 +
 Software Development
 +
-AI/ML
+AI / ML
 +
 Continuous Learning
 ```
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/aakashp2008">
-    <img src="https://img.shields.io/badge/GitHub-aakashp2008-black?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://www.linkedin.com/in/aakash-pk-612907391/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aakash%20P-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-# ⭐ Profile Highlights
-
-<p align="center">
-  <img src="assets/profile.gif" width="700" alt="Profile Animation">
-</p>
+# 🌟 Profile Highlights
 
 ```text
 🎓 B.Tech IT Student
@@ -447,13 +479,17 @@ Continuous Learning
 🔵 Codeforces Practice
 🟢 HackerRank Practice
 🏆 Technical Certifications
-🚀 Building Real-World Projects
+🚀 Real-World Projects
 📱 Flutter & Firebase
 🤖 Exploring AI/ML
 📚 Continuous Learner
 ```
 
 ---
+
+<p align="center">
+  <img src="assets/profile.gif" width="500" alt="Profile Animation">
+</p>
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
