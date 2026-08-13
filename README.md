@@ -140,9 +140,9 @@ Dynamic Programming
 ```text
 300+ Problems
       ↓
-500 Problems
+500+ Problems
       ↓
-750 Problems
+750+ Problems
       ↓
 1000+ Problems 🚀
 ```
@@ -233,8 +233,9 @@ I continuously improve my technical knowledge through certifications, online cou
 ## 📜 Certifications & Credentials
 
 * 🐍 **Programming Fundamentals using Python – Infosys Springboard**
-* 📚 **Problem Solving through C – NPTEL**
-* 🤖 **Oracle AI / OCI AI Learning Credentials**
+* 📚 **Problem Solving Through Programming in C – NPTEL**
+* 🤖 **Oracle Agentic AI Learning Credential**
+* ☁️ **Oracle Cloud Infrastructure AI Foundations**
 * 🎓 **Oracle Certified Learner**
 * 📊 **Google Ads Display Certification**
 * 💻 Additional programming and technology learning credentials
@@ -391,7 +392,7 @@ A Python-based application for recording and managing personal expenses.
 # 🎯 2026–2027 Goals
 
 * [ ] Reach 500+ LeetCode problems
-* [ ] Reach 1000+ LeetCode problems
+* [ ] Progress toward 1000+ LeetCode problems
 * [ ] Reach 1000+ Codeforces rating
 * [ ] Improve HackerRank ranking
 * [ ] Build production-style projects
@@ -407,8 +408,8 @@ A Python-based application for recording and managing personal expenses.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashp2008&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashp2008&layout=compact&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashp2008&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashp2008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -446,7 +447,7 @@ Automation
 # 📌 Current Focus
 
 <p align="center">
-  <img src="assets/profile.gif" width="700" alt="Current Focus Animation">
+  <img src="assets/focus.gif" width="700" alt="Current Focus Animation">
 </p>
 
 > **"Don't just learn technology. Build with it."**
