@@ -234,8 +234,7 @@ I continuously improve my technical knowledge through certifications, online cou
 
 * 🐍 **Programming Fundamentals using Python – Infosys Springboard**
 * 📚 **Problem Solving Through Programming in C – NPTEL**
-* 🤖 **Oracle Agentic AI Learning Credential**
-* ☁️ **Oracle Cloud Infrastructure AI Foundations**
+* 🤖 **Oracle AI / OCI AI Learning Credentials**
 * 🎓 **Oracle Certified Learner**
 * 📊 **Google Ads Display Certification**
 * 💻 Additional programming and technology learning credentials
@@ -408,8 +407,8 @@ A Python-based application for recording and managing personal expenses.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashp2008&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashp2008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashp2008&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashp2008&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </p>
 
 ---
@@ -447,7 +446,7 @@ Automation
 # 📌 Current Focus
 
 <p align="center">
-  <img src="assets/focus.gif" width="700" alt="Current Focus Animation">
+  <img src="assets/profile.gif" width="700" alt="Current Focus Animation">
 </p>
 
 > **"Don't just learn technology. Build with it."**
